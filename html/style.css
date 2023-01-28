@@ -19,11 +19,14 @@ body{
     text-align: center;
     color: black;
     text-decoration: none;
-
 }
 
-.titulo-centralizado:hover h3 {
-    border-color: #c78c19;
+.titulo-centralizado:hover {
+    color: #c78c19;
+}
+
+.titulo-centralizado:active {
+    color: #088c19;
 }
 
 p{
