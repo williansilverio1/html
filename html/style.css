@@ -17,6 +17,13 @@ body{
 
 .titulo-centralizado{
     text-align: center;
+    color: black;
+    text-decoration: none;
+
+}
+
+.titulo-centralizado:hover h3 {
+    border-color: #c78c19;
 }
 
 p{
